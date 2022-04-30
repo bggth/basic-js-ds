@@ -1,5 +1,4 @@
 const { NotImplementedError } = require('../extensions/index.js');
-const {log} = require('./log');
 
 // const { Node } = require('../extensions/list-tree.js');
 
